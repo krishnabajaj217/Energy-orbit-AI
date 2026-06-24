@@ -1,0 +1,6 @@
+{
+  "name": "Energy Orb AI",
+  "description": "Real-time gesture-powered energy simulator with webcam tracking, glowing hand joints, custom particle orbs, and magic powers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
